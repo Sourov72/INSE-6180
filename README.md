@@ -16,16 +16,17 @@ The primary goal of this project is to investigate how feature selection and fea
 To set up the Conda virtual environment and run the code, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Sourov72/INSE-6180.git
+      ```bash
+      git clone https://github.com/Sourov72/INSE-6180.git
+      ```
 
 2. **Install dependencies**:
-Navigate to the repository directory and create the required Conda environment.
-  ```bash
-  cd INSE-6180
-  conda create --name anomal_e_env --file anomal_e_venv_requirements.txt
-  conda activate anomal_e_env
-
+   Navigate to the repository directory and create the required Conda environment.
+     ```bash
+     cd INSE-6180
+     conda create --name anomal_e_env --file anomal_e_venv_requirements.txt
+     conda activate anomal_e_env
+      ```
 3. **Run the code**:
 After activating the environment, you can execute the Jupyter Notebook Improved_Anomal_E_cicids2018_v2.ipynb or other scripts in the repository.
 
