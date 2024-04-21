@@ -7,6 +7,7 @@ The primary goal of this project is to investigate how feature selection and fea
 
 ## Repository Contents
 - **decision_tree_with_xg_boosting.ipynb.ipynb**: The Jupyter Notebook where we implemented feature selection using Decision Tree classifier with and without XGBoosting to choose important features.
+- **traditional_network.ipynb**: The Jupyter Notebook where we implemented the DL model without any feature preprocessing mechanism.
 - **fusion_network.ipynb**: The Jupyter Notebook where we implemented the feature fusion technique with DL method.
 - **Improved_Anomal_E_cicids2018_v2.ipynb**: The Jupyter Notebook where we implemented various improvements and tests on the Anomal-E model.
 - **anomal_e_venv_requirements.txt**: The requirements file for the Conda virtual environment used for running the `Improved_Anomal_E_cicids2018_v2.ipynb` Jupyter Notebook.
