@@ -6,7 +6,7 @@ This repository contains code and resources for a network intrusion detection pr
 The primary goal of this project is to investigate how feature selection and feature fusion affect the performance of deep learning models for network intrusion detection. We implemented strategic feature engineering to assess its impact on detection accuracy, using the Anomal-E model as a case study.
 
 ## Repository Contents
-- **decision_tree_with_xg_boosting.ipynb.ipynb**:
+- **decision_tree_with_xg_boosting.ipynb.ipynb**: The Jupyter Notebook where implemented feature selection using Decision Tree classifier with and without XGBoosting to choose important features.
 - **fusion_network.ipynb**:
 - **Improved_Anomal_E_cicids2018_v2.ipynb**: The Jupyter Notebook where we implemented various improvements and tests on the Anomal-E model.
 - **anomal_e_venv_requirements.txt**: The requirements file for the Conda virtual environment used for running the `Improved_Anomal_E_cicids2018_v2.ipynb` Jupyter Notebook.
